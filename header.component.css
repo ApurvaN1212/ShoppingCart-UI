@@ -1,0 +1,19 @@
+.btn:hover{
+  color: aliceblue;
+}
+.text-bg-white {
+  color: white;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.logo {
+  font-size: 3rem;
+  font-weight: bold;
+  position: relative;
+}
+
+
+
